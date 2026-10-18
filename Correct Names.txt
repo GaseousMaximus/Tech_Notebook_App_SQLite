@@ -1,0 +1,39 @@
+#self.tag_number = tag_number
+ #       self.type = type
+  #      self.make = make
+   #     self.model = model
+    #    self.model_number = model_number
+     #   self.serial_number = serial_number
+      #  self.year = year
+#self.make = make
+ #       self.model = model
+  #      self.model_number = model_number
+   #     self.serial_number = serial_number
+#self.wo_number = wo_number
+ #       self.customer_first = customer_first
+  #      self.customer_last = customer_last
+   #     self.customer_tag = customer_tag
+    #    self.machine = machine
+     #   self.engine = engine
+      #  self.status = status
+       # self.created_on = created_on if created_on else datetime.now().isoformat()
+        #self.updated_at = updated_at
+#self.wo_number, 
+            #self.customer_first,
+            #self.customer_last,
+            #self.customer_tag,
+            #machine_id,
+            #engine_id,
+            #self.machine.type if self.machine else None,
+            #self.machine.make if self.machine else None,
+            #self.machine.model if self.machine else None,
+            #self.machine.model_number if self.machine else None,
+            #self.machine.serial_number if self.machine else None,
+            #self.machine.year if self.machine else None,
+            #self.engine.make if self.engine else None,
+            #self.engine.model if self.engine else None,
+            #self.engine.model_number if self.engine else None,
+            #self.engine.serial_number if self.engine else None,
+            #self.status,
+            #self.created_on, 
+            #self.updated_at
